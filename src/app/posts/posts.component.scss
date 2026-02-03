@@ -1,8 +1,11 @@
+
 .page-header {
   text-align: center;
   padding: 1.5rem;
-  background-color: #e64d32;
+  background-color: #6b5f4e;
   color: white;
+  border-radius: 5px;
+  font-size: 25 px;
 }
 
 .posts-container {
@@ -18,9 +21,10 @@
   max-width: 400px;
   padding: 1rem;
   border-radius: 8px;
-  background-color: #5d9eff;
+  background-color: #D2B48C;
   display: flex;
   flex-direction: column;
+  border-radius: 10px;
 }
 
 .post-card button {
